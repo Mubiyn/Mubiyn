@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi, I'm Mubin Sheidu
+  Hi, I'm Mubiyn
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="sunglasses"/>
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" alt="wave"/>
 </h1>
@@ -105,11 +105,18 @@ const mubin = {
 
 ## 🚀 Featured Projects
 
+<p align="center"><b>📱 Apps</b></p>
+
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=real1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="real1"/>
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=healthpay-app&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="healthpay-app"/>
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=streams-field&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streams-field"/>
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=Trace&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Trace"/>
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="portfolio"/>
+</p>
+
+<p align="center"><b>🤖 Robotics & AI</b></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=Drone_Hybrid_RL_PID&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Drone_Hybrid_RL_PID"/>
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=bio-inspired-drone-swarm-wildfire&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="bio-inspired-drone-swarm-wildfire"/>
 </p>
 
 ---
