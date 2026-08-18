@@ -34,7 +34,7 @@
 
 ---
 
-## 👨‍💻 A little more about me
+<h2>👨‍💻 A little more about me</h2>
 
 ```javascript
 const mubin = {
@@ -77,16 +77,12 @@ const mubin = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mubiyn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubiyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" width="49%"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Mubiyn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" width="49%"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mubiyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubiyn&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mubiyn&theme=tokyonight&no-bg=true&no-frame=true&row=2&column=4" alt="GitHub trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=Mubiyn&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mubiyn&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub activity graph" width="100%"/>
@@ -110,10 +106,10 @@ const mubin = {
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubiyn&repo=real1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="real1"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubiyn&repo=healthpay-app&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="healthpay-app"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubiyn&repo=streams-field&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streams-field"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubiyn&repo=Trace&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Trace"/>
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=real1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="real1"/>
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=healthpay-app&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="healthpay-app"/>
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=streams-field&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streams-field"/>
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=Trace&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Trace"/>
 </p>
 
 ---
