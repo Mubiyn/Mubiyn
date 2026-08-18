@@ -109,7 +109,7 @@ const mubin = {
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=real1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="real1"/>
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="portfolio"/>
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Mubiyn&repo=flutter_nfc&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="flutter_nfc"/>
 </p>
 
 <p align="center"><b>🤖 Robotics & AI</b></p>
