@@ -89,7 +89,7 @@ const mubin = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake eating my commits
 
 <img src="https://raw.githubusercontent.com/Mubiyn/Mubiyn/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
